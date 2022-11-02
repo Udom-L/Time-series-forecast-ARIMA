@@ -4,4 +4,4 @@
 
 __ARIMA, short for ‘Auto Regressive Integrated Moving Average’ is essentially a regression model that explains a given time series based on its own past values. In order words, its own lags (past-periods) and the lagged forecast errors, so that  can be applied to forecast future values.__
 
-__This document summarizes how to use ARIMA model, why do we use ARIMA?, and the essential algorithm of time series ARIMA model for predicting price of crytocurrency in the future.__
+__This document summarizes how to use ARIMA model, why do we use ARIMA?, the assumptions of ARIMA model with hypothesis test, and the algorithm of time series ARIMA model implementing in daily bitcoin price with volatility for predicting values of its cryptocurrency in the future.__
